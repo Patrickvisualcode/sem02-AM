@@ -34,7 +34,7 @@ class Alumno {
 
 void main() {
 
-  Alumno patrick = Alumno('Patrick', 'Chavez', 8, 9, 7);
+  Alumno patrick = Alumno('Patrick', 'Chavez', 18, 19, 17);
 
 
   patrick.mostrarInformacion();
